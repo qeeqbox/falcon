@@ -13,7 +13,7 @@ CVE-2020-14882.py
 ```
 
 ## Severity Table
-[](https://raw.githubusercontent.com/qeeqbox/falcon/main/readme/cve_table_qeeqbox_falcon.png)
+![](https://raw.githubusercontent.com/qeeqbox/falcon/main/readme/cve_table_qeeqbox_falcon.png)
 
 ## Disclaimer\Notes
 - Please patch your systems ASAP
