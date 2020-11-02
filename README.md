@@ -5,6 +5,15 @@
 
 Falcon is an automated CVE hunter system that monitors different honeypots and feeds for new CVEs (This repo contains the results ONLY)
 
+## Current Exploits
+<table>
+  <tr>
+  <td>Critical</td>
+  <td>CVE-2020-14882</td>
+  <td>Oracle WebLogic Server Under Active Exploitation (RCE)</td>
+  </tr>
+</table>
+
 ## Install and run
 ```bash
 git clone https://github.com/qeeqbox/falcon.git
