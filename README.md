@@ -12,6 +12,11 @@ Falcon is an automated CVE hunter system that monitors different honeypots and f
   <td>CVE-2020-14882</td>
   <td>Oracle WebLogic Server Under Active Exploitation (RCE)</td>
   </tr>
+   <tr>
+  <td>Medium</td>
+  <td>CVE-2020-13935</td>
+  <td>Apache Tomcat Denial of Service</td>
+  </tr>
 </table>
 
 ## Install and run
