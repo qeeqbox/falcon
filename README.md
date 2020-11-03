@@ -23,7 +23,6 @@ Falcon is an automated CVE hunter system that monitors different honeypots and f
 ```bash
 git clone https://github.com/qeeqbox/falcon.git
 cd falcon
-CVE-2020-14882.py
 ```
 
 ## Severity Table
