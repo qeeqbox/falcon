@@ -37,4 +37,5 @@ cd falcon
 ## Disclaimer\Notes
 - Please patch your systems ASAP
 - All exploits will be posted here as python scripts
+- Please contact me if I missed a reference or resource so I add them
 - Some exploits might have external write-ups (please check Resources or search about them)
