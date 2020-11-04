@@ -13,7 +13,7 @@ Collection of exploits captured by an automated hunter that monitors different h
   <td>Oracle WebLogic Server Under Active Exploitation (RCE)</td>
   </tr>
    <tr>
-  <td>Medium</td>
+  <td>High</td>
   <td>CVE-2020-13935</td>
   <td>Apache Tomcat Denial of Service</td>
   </tr>
