@@ -28,6 +28,12 @@ cd falcon
 ## Severity Table
 ![](https://raw.githubusercontent.com/qeeqbox/falcon/main/readme/cve_table_qeeqbox_falcon.png)
 
+## Resource
+- https://cve.mitre.org
+- https://nvd.nist.gov
+- https://www.rapid7.com/db/?type=nexpose
+- redteam-pentesting
+
 ## Disclaimer\Notes
 - Please patch your systems ASAP
 - All exploits are posted here as python script for educational purposes
