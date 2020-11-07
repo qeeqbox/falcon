@@ -32,7 +32,6 @@ cd falcon
 - https://cve.mitre.org
 - https://nvd.nist.gov
 - https://www.rapid7.com/db/?type=nexpose
-- redteam-pentesting
 
 ## Disclaimer\Notes
 - Please patch your systems ASAP
