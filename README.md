@@ -7,16 +7,9 @@ Collection of exploits that were verified by an automated system (It monitors di
 
 ## Current Exploits
 <table>
-  <tr>
-  <td>Critical</td>
-  <td>CVE-2020-14882</td>
-  <td>Oracle WebLogic Server Under Active Exploitation (RCE)</td>
-  </tr>
-   <tr>
-  <td>High</td>
-  <td>CVE-2020-13935</td>
-  <td>Apache Tomcat Denial of Service</td>
-  </tr>
+  <tr><td>Critical</td><td>CVE-2020-14882</td><td>Oracle WebLogic Server Under Active Exploitation (RCE)</td></tr>
+  <tr><td>High</td><td>CVE-2020-13935</td><td>Apache Tomcat Denial of Service</td></tr>
+  <tr><td>High</td><td>CVE-2020-3452</td><td>Cisco Adaptive Security Appliance Directory Traversal</td></tr>
 </table>
 
 ## Install and run
