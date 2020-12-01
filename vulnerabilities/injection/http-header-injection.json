@@ -1,5 +1,5 @@
 {
-   "description":"Adversary is able to inject data into the HTTP header causing the target system to perform non-intended actions",
+   "description":"Adversary is able to inject data into the HTTP header causing the target to perform non-intended actions",
    "impact":"0.1-10.0",
    "redemption":[
       "input validation"
