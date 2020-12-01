@@ -1,5 +1,6 @@
 {
-   "description":"Attacker is able to alter SQL commands causing non-intended actions based on the privileges level. The attacker can read, modify and write to the database, or execute administrative commands for furthur chained attacks",
+   "description":"Attacker is able to alter SQL commands causing read, modify and write to the database, or execute administrative commands for furthur chained attacks",
+   "depends on":["privileges level", "attacker skills"]
    "impact":"high",
    "redemption":[
       "input validation",
