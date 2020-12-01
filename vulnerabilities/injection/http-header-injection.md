@@ -8,6 +8,7 @@ Adversary is able to inject data into the HTTP header causing the target system 
 generic
 
 [related]\
+none
 
 [References]\
 https://en.wikipedia.org/wiki/HTTP_header_injection
