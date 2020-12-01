@@ -1,6 +1,6 @@
 {
    "description":"Attacker is able to alter SQL commands causing read, modify and write to the database, or execute administrative commands for furthur chained attacks",
-   "depends on":["privileges level", "attacker skills"]
+   "depends on":["privileges level", "attacker skills"],
    "impact":"high",
    "redemption":[
       "input validation",
