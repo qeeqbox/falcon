@@ -1,0 +1,18 @@
+{
+   "description":"Attacker is able to alter SQL commands causing non-intended actions based on the privileges level. The attacker can read, modify and write to the database, or execute administrative commands for furthur chained attacks",
+   "impact":"high",
+   "redemption":[
+      "input validation",
+      "Parametrized queries",
+      "Stored procedures",
+      "Escaping",
+      "Web application firewall",
+      "Enforcing least privilege"
+   ],
+   "type":"sql",
+   "related":[],
+   "references":[
+      "https://en.wikipedia.org/wiki/SQL_injection"
+   ],
+   "id":"2db2bec2-97bc-4f62-b2d3-163aab2d2226"
+}
