@@ -5,7 +5,7 @@
       "input validation"
    ],
    "type":"generic",
-   "related":"",
+   "related":[],
    "references":[
       "https://en.wikipedia.org/wiki/HTTP_header_injection"
    ],
