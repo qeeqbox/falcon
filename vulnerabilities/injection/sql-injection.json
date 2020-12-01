@@ -1,6 +1,9 @@
 {
    "description":"Attacker is able to alter SQL commands causing read, modify and write to the database, or execute administrative commands for furthur chained attacks",
-   "depends on":["privileges level", "attacker skills"],
+   "depends on":[
+      "privileges level",
+      "attacker skills"
+   ],
    "impact":"high",
    "redemption":[
       "input validation",
@@ -11,7 +14,9 @@
       "Enforcing least privilege"
    ],
    "type":"sql",
-   "related":[],
+   "related":[
+      
+   ],
    "references":[
       "https://en.wikipedia.org/wiki/SQL_injection"
    ],
