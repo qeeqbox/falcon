@@ -1,0 +1,13 @@
+{
+   "description":"Adversary is able to inject arbitrary commands into a device, system or app causing the target to execute the commands",
+   "impact":"10.0",
+   "redemption":[
+      "input validation"
+   ],
+   "type":"generic",
+   "related":[],
+   "references":[
+      "https://owasp.org/www-community/attacks/Command_Injection"
+   ],
+   "id":"2c70f0c4-e944-4def-beb8-2bf04e45d7f6"
+}
